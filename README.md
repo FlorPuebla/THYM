@@ -1,5 +1,5 @@
 # THYM
 Trabajo de técnicas y herramientas modernas
-Módulo 1. Creación de textos e hipertextos
-Creare una carpeta para el cv
-otra carpeta para el capítulo del libro
+
+
+subiré todos los trabajos realizados en la materia y el certificado de haber sido parte del equipo organizador de las JoSEII
